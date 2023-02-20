@@ -11,5 +11,4 @@ Line 7
 ## Branch 1
 
 Line 1
-Line 1
-Line 1
+Line 2
