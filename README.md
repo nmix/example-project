@@ -18,9 +18,7 @@ Line 2
 ## Branch 2
 
 One
-Two
 Three
 
 1
-2
 3
